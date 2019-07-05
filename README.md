@@ -1,2 +1,3 @@
 # hello-world
-Hey there! This is the first repository I'm making off! A new enthusiastic learner is now on GitHub!
+Hey there! A very new enthusiastic learner is now on GitHub!
+It's Medha here and I love to learn new things! 
